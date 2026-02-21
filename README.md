@@ -1,2 +1,2 @@
-# corporatefinance
-Teaching Materials for Corporate Finance
+# Teaching
+Teaching Materials for Kenneth Khoo
